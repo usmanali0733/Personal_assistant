@@ -32,6 +32,10 @@ Use markdown headings (`##` or `###`) consistent with the destination tool. Pres
 - Include technical checks (paths, builds, i18n keys, a11y) when relevant.
 - Call out exclusions (“out of scope”) again if they affect verification.
 
+## Time Tracking & Billing
+
+- Note that tracking time does not automatically mark it as billable. The **Billable** flag is a separate input and must be explicitly checked/set when logging the task.
+
 ## Task report (completion summary)
 
 After work is done, a **Task report** documents what shipped. Format:
